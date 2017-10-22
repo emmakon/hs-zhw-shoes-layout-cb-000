@@ -9,6 +9,11 @@
   -moz-box-sizing: border-box;
 }
 
+.col-1 {
+  width: 32%;
+  float: left
+}
+
 .clearfix:after {
   content: ".";
   display: block;
