@@ -23,6 +23,10 @@
   float: left
 }
 
+[class*="col-"] {
+  margin-left: 2%;
+}
+
 .clearfix:after {
   content: ".";
   display: block;
